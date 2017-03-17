@@ -1,0 +1,8 @@
+/Users/Chris/Dev/Web/dotnet-core-mvc/bin/Debug/netcoreapp1.1/dotnet-core-mvc.deps.json
+/Users/Chris/Dev/Web/dotnet-core-mvc/bin/Debug/netcoreapp1.1/dotnet-core-mvc.runtimeconfig.json
+/Users/Chris/Dev/Web/dotnet-core-mvc/bin/Debug/netcoreapp1.1/dotnet-core-mvc.runtimeconfig.dev.json
+/Users/Chris/Dev/Web/dotnet-core-mvc/bin/Debug/netcoreapp1.1/dotnet-core-mvc.dll
+/Users/Chris/Dev/Web/dotnet-core-mvc/bin/Debug/netcoreapp1.1/dotnet-core-mvc.pdb
+/Users/Chris/Dev/Web/dotnet-core-mvc/obj/Debug/netcoreapp1.1/dotnet-core-mvc.AssemblyInfo.cs
+/Users/Chris/Dev/Web/dotnet-core-mvc/obj/Debug/netcoreapp1.1/dotnet-core-mvc.dll
+/Users/Chris/Dev/Web/dotnet-core-mvc/obj/Debug/netcoreapp1.1/dotnet-core-mvc.pdb
